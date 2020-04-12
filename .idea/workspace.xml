@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d4ec71-d9c8-4ea7-8ec6-ed8b67d2417c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/udemy/basics/HelloWorld.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/streams/$global/clean/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Scala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Scala-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$491050da2847c5410eb2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$491050da2847c5410eb2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$491050da2847c5410eb2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6034a4664a5b4c340b51$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6034a4664a5b4c340b51.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6034a4664a5b4c340b51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d45e1cb0b22613af25cd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d45e1cb0b22613af25cd.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d45e1cb0b22613af25cd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de7924c38a86c1874e89$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de7924c38a86c1874e89.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$de7924c38a86c1874e89.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile-internal.xml" afterDir="false" />
@@ -35,62 +18,7 @@
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/scala$sources/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/scala$sources/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/scala_2.13/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/scala_2.13/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala$sources-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-scala_2.13-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +172,7 @@
       <workItem from="1570290065407" duration="489000" />
       <workItem from="1571143903599" duration="832000" />
       <workItem from="1579600136517" duration="502000" />
-      <workItem from="1586690121996" duration="302000" />
+      <workItem from="1586690121996" duration="640000" />
     </task>
     <servers />
   </component>
@@ -262,6 +190,24 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="819" height="367" key="GridCell.Tab.0.bottom" timestamp="1586690430601">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="367" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586690430601" />
+    <state width="819" height="367" key="GridCell.Tab.0.center" timestamp="1586690430598">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="367" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586690430598" />
+    <state width="819" height="367" key="GridCell.Tab.0.left" timestamp="1586690430598">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="367" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586690430598" />
+    <state width="819" height="367" key="GridCell.Tab.0.right" timestamp="1586690430599">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="819" height="367" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586690430599" />
   </component>
   <component name="masterDetails">
     <states>
