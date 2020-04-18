@@ -1,6 +1,7 @@
 package udemy.advanced.part3concurrency
 
-import scala.concurrent.Future
+import scala.concurrent.{Await, Future, Promise}
+import scala.concurrent.duration._
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.util.{Failure, Random, Success}
 
@@ -105,5 +106,58 @@ object FuturesPromises extends App {
   }
 
   val fallbackResult = SocialNetwork.fetchProfile("unknow id ").fallbackTo(SocialNetwork.fetchProfile("fb.id.0-dummy"))
+
+
+  // online banking app
+  case class User(name: String)
+
+  case class Transaction(sneder: String, receiver: String, amount: Double, status: String)
+
+  object BankingApp {
+    val name = "Rock the JVM banking"
+
+    def fetchUser(name: String): Future[User] = Future {
+      // simulate fetching from DB
+      Thread.sleep(500)
+      User(name)
+    }
+
+    def createTransaction(user: User, merchantName: String, amount: Double): Future[Transaction] = Future {
+      // simulate some process
+      Thread.sleep(500)
+      Transaction(user.name, merchantName, amount, "SUCCESS")
+    }
+
+    def purchase(userName: String, item: String, merchantName: String, cost: Double): String = {
+      // fetch the user from the DB
+      // create the transaction
+      // WAIT for the transaction fininsh
+      val transactionStatusFuture = for {
+        user <- fetchUser(userName)
+        transaction <- createTransaction(user, merchantName, cost)
+      } yield transaction.status
+
+      Await.result(transactionStatusFuture, 2.seconds)
+    }
+  }
+
+  println(BankingApp.purchase("Daniel", "iphone 12", "rock the jvm store", 3000))
+
+  // promises
+  val promise = Promise[Int]
+  val future = promise.future
+  future.onComplete {
+    case Success(r) => println("[consumber] I've received " + r)
+  }
+
+  val producer = new Thread(() => {
+    println("[producer] crunching number...")
+    Thread.sleep(500)
+    promise.success(42)
+    println("[producer] done.")
+  })
+
+  producer.start()
+  Thread.sleep(1000)
 
 }
