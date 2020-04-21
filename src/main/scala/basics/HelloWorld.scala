@@ -1,4 +1,4 @@
-package udemy.basics
+package basics
 
 /**
   * Created by ngupta on 2019-06-29.

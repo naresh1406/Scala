@@ -1,4 +1,4 @@
-package udemy.basics
+package basics
 
 /**
   * Created by ngupta on 2019-07-06.
@@ -13,5 +13,5 @@ object Basic extends App {
     println(person.gender.getOrElse(Some("Con")))
   }
 
-  fun(Person("Hello", 1, null))
+  fun(Person("Hello", 1, None))
 }
